@@ -1,4 +1,4 @@
-import css from './Statistics.module.css'
+// import css from './Statistics.module.css'
 import PropTypes from 'prop-types';
 import { nanoid } from 'nanoid'
 const Statistics = ({good, neutral, bad, total, positivePercentage})=> {
